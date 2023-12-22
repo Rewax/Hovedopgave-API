@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.ts",
-  "type": "module",
   "scripts": {
-    "start": "node dist/app.js",
+    "start": "nodemon app.ts",
     "dev": "nodemon src/app.ts",
     "build": "tsc -p .",
     "lint": "tslint -c tslint.json -p tsconfig.json --fix"
