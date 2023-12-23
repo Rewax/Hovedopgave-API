@@ -10,19 +10,6 @@ class FerretCountRepository {
 
     objectToReturn = new ObjectToReturn({}, true, "", 200);
 
-    constructor() {
-
-    }
-
-    // setUser(user): void {
-    //     this.Id = user.Id;
-    //     this.Email = user.Email;
-    //     this.Password = user.Password;
-    //     this.Firstname = user.Firstname;
-    //     this.Lastname = user.Lastname;
-    //     this.user = user;
-    // }
-
     async getAllFerretCounts() {
         try {
             const data = await FerretCountModel.findAll({

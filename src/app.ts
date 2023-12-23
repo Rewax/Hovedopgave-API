@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-// import syncDb from './Startup/DbStartup.js';
+import syncDb from './startup/DBStartup.js';
 import swaggerUi from "swagger-ui-express";
 import swaggerJsdoc from "swagger-jsdoc";
 import Swagger from './Config/Swagger.js';
@@ -10,7 +10,7 @@ import router from './Routes/router.js';
 dotenv.config();
 
 if (parseInt(process.env.SQL_SYNC_DATA) === 1) {
-  // syncDb.synchronizeDatabase();
+  syncDb.synchronizeDatabase();
 }
 
 const app = express();
