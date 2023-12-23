@@ -1,9 +1,11 @@
-import { FerretCountModel } from '../Model/FerretCountModel.js';
 import fs from 'fs';
 import path from 'path';
-// import CompanyModel from '../Models/DatabaseModels/CompanyModel.js';
-// import UserModel from '../Models/DatabaseModels/UserModel.js';
-// import LogModel from '../Models/DatabaseModels/LogModel.js';
+import { fileURLToPath } from 'url';
+import { FerretCountModel } from '../Model/FerretCountModel.js';
+
+const __filename = fileURLToPath(import.meta.url);
+
+const __dirname = path.dirname(__filename);
 
 async function synchronizeDatabase() {
     try {

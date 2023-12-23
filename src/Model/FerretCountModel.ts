@@ -68,6 +68,4 @@ fs.readFile(filePath, 'utf8', async (err, data) => {
     }
 });
 
-JSON.parse(fs.readFileSync(path.join(__dirname, '../ferret_count_data.json')).toString())
-
 export { FerretCountModel };
