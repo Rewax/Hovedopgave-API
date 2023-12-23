@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { FerretCountModel } from '../Model/FerretCountModel.js';
 import { LoadflowModel } from '../Model/LoadflowModel.js';
-
+import { FerretConnectedness } from '../Model/FerretConnectedness.js';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -15,46 +15,81 @@ async function synchronizeDatabase() {
 
         // Sync the database
         await FerretCountModel.sync({ alter: true });
-        await LoadflowModel.sync({alter: true});
+        await LoadflowModel.sync({ alter: true });
+        await FerretConnectedness.sync({ alter: true });
 
         // Create bulk data
         if (parseInt(process.env.SQL_CREATE_TEST_DATA) === 1) {
 
             const filePath = path.resolve(__dirname, '../ferret_count_data.json');
             const filePath2 = path.resolve(__dirname, '../loadflow_data_nkforsyning.json')
+            const filePath3 = path.resolve(__dirname, '../ferret_connectedness_data.json');
 
-            fs.readFile(filePath, 'utf8', async (err, data) => {
+            // fs.readFile(filePath, 'utf8', async (err, data) => {
+            //     if (err) {
+            //         console.error('Error reading the JSON file:', err);
+            //         return;
+            //     }
+
+            //     const jsonData = JSON.parse(data);
+
+            //     try {
+            //         await FerretCountModel.bulkCreate(jsonData);
+            //         console.log('Data inserted successfully!');
+            //     } catch (error) {
+            //         console.error('Error inserting data into the database:', error);
+            //     }
+            // });
+
+            // fs.readFile(filePath2, 'utf8', async (err, data) => {
+            //     if (err) {
+            //         console.error('Error reading the JSON file:', err);
+            //         return;
+            //     }
+
+            //     const jsonData = JSON.parse(data);
+
+            //     try {
+            //         await LoadflowModel.bulkCreate(jsonData);
+            //         console.log('Data inserted successfully!');
+            //     } catch (error) {
+            //         console.error('Error inserting data into the database:', error);
+            //     }
+            // });
+
+            // fs.readFile(filePath3, 'utf8', async (err, data) => {
+            //     if (err) {
+            //         console.error('Error reading the JSON file:', err);
+            //         return;
+            //     }
+
+            //     const jsonData = JSON.parse(data);
+
+            //     try {
+            //         await LoadflowModel.bulkCreate(jsonData);
+            //         console.log('Data inserted successfully!');
+            //     } catch (error) {
+            //         console.error('Error inserting data into the database:', error);
+            //     }
+            // });
+
+
+            fs.readFile(filePath3, 'utf8', async (err, data) => {
                 if (err) {
                     console.error('Error reading the JSON file:', err);
                     return;
                 }
 
                 const jsonData = JSON.parse(data);
+                console.log(jsonData);
 
                 try {
-                    await FerretCountModel.bulkCreate(jsonData);
+                    await FerretConnectedness.bulkCreate(jsonData);
                     console.log('Data inserted successfully!');
                 } catch (error) {
                     console.error('Error inserting data into the database:', error);
                 }
             });
-
-            fs.readFile(filePath2, 'utf8', async (err, data) => {
-                if (err) {
-                    console.error('Error reading the JSON file:', err);
-                    return;
-                }
-
-                const jsonData = JSON.parse(data);
-
-                try {
-                    await LoadflowModel.bulkCreate(jsonData);
-                    console.log('Data inserted successfully!');
-                } catch (error) {
-                    console.error('Error inserting data into the database:', error);
-                }
-            });
-
         }
 
         console.log('Database synchronization complete.');

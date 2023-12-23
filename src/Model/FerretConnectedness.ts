@@ -18,7 +18,7 @@ FerretConnectedness.init(
             primaryKey: true,
         },
         name: {
-            type: DataTypes.STRING, // Assuming "name" corresponds to "tenant" in the JSON
+            type: DataTypes.STRING,
         },
         version_id: {
             type: DataTypes.INTEGER,
@@ -27,10 +27,10 @@ FerretConnectedness.init(
             type: DataTypes.FLOAT,
         },
         time_finished: {
-            type: DataTypes.DATE,
+            type: DataTypes.STRING,
         },
         time_started: {
-            type: DataTypes.DATE,
+            type: DataTypes.STRING,
         },
         // Add additional columns for values_by_station
         station_name: {
@@ -42,20 +42,23 @@ FerretConnectedness.init(
     },
     {
         sequelize: sequelizeConnection,
-        tableName: 'FerretCount',
+        tableName: 'FerretConnectedness',
         freezeTableName: true,
     }
 );
 
+
 // const filePath = path.resolve(__dirname, '../ferret_connectedness_data.json');
 
-// fs.readFile(filePath, 'utf8', async (err, data) => {
+// fs.readFile('../ferret_connectedness_data.json', 'utf8', async (err, data) => {
 //     if (err) {
 //         console.error('Error reading the JSON file:', err);
 //         return;
 //     }
 
 //     const jsonData = JSON.parse(data);
+
+//     console.log(jsonData);
 
 //     try {
 //         // Extract values from the JSON object and create a FerretConnectedness instance
@@ -81,5 +84,6 @@ FerretConnectedness.init(
 //         console.error('Error inserting data into the database:', error);
 //     }
 // });
+
 
 export { FerretConnectedness };
