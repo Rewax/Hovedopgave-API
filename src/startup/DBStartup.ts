@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { FerretCountModel } from '../Model/FerretCountModel.js';
 import { LoadflowModel } from '../Model/LoadflowModel.js';
-
+import { FerretConnectedness } from '../Model/FerretConnectednessModel.js';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -15,15 +15,17 @@ async function synchronizeDatabase() {
 
         // Sync the database
         await FerretCountModel.sync({ alter: true });
-        await LoadflowModel.sync({alter: true});
+        await LoadflowModel.sync({ alter: true });
+        await FerretConnectedness.sync({ alter: true });
 
         // Create bulk data
         if (parseInt(process.env.SQL_CREATE_TEST_DATA) === 1) {
 
-            const filePath = path.resolve(__dirname, '../ferret_count_data.json');
-            const filePath2 = path.resolve(__dirname, '../loadflow_data_nkforsyning.json')
+            const ferretCount = path.resolve(__dirname, '../ferret_count_data.json');
+            const loadflow = path.resolve(__dirname, '../loadflow_data_nkforsyning.json')
+            const FerretConnectednes = path.resolve(__dirname, '../ferret_connectedness_data.json');
 
-            fs.readFile(filePath, 'utf8', async (err, data) => {
+            fs.readFile(ferretCount, 'utf8', async (err, data) => {
                 if (err) {
                     console.error('Error reading the JSON file:', err);
                     return;
@@ -39,7 +41,7 @@ async function synchronizeDatabase() {
                 }
             });
 
-            fs.readFile(filePath2, 'utf8', async (err, data) => {
+            fs.readFile(loadflow, 'utf8', async (err, data) => {
                 if (err) {
                     console.error('Error reading the JSON file:', err);
                     return;
@@ -55,6 +57,21 @@ async function synchronizeDatabase() {
                 }
             });
 
+            fs.readFile(FerretConnectednes, 'utf8', async (err, data) => {
+                if (err) {
+                    console.error('Error reading the JSON file:', err);
+                    return;
+                }
+
+                const jsonData = JSON.parse(data);
+
+                try {
+                    await FerretConnectedness.bulkCreate(jsonData);
+                    console.log('Data inserted successfully!');
+                } catch (error) {
+                    console.error('Error inserting data into the database:', error);
+                }
+            });
         }
 
         console.log('Database synchronization complete.');

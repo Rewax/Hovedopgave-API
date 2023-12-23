@@ -1,10 +1,10 @@
 import { FerretCountModel } from '../Model/FerretCountModel.js';
 import { ObjectToReturn } from '../Types/ObjectToReturnModel.js';
 
-class FerretCountRepository {
+class FerretConnectednessRepository {
     objectToReturn = new ObjectToReturn({}, true, "", 200);
 
-    async getAllFerretCounts() {
+    async getAllFerretConnectedness() {
         try {
             const data = await FerretCountModel.findAll({
                 attributes: [
@@ -31,4 +31,4 @@ class FerretCountRepository {
         }
     }
 }
-export default FerretCountRepository;
+export default FerretConnectednessRepository;

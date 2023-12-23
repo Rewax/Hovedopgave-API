@@ -1,7 +1,5 @@
 import { Request, Response } from 'express';
-// import UserInterface from '../Models/Interface/UserInterface.js';
 import LoadflowRepository from '../Repository/LoadflowRepository.js';
-// import { ObjectToReturn } from 'Models/Types/ObjectToReturnModel.js';
 
 class LoadflowController {
     async getAllLoadFlows(req: Request, res: Response): Promise<Response> {

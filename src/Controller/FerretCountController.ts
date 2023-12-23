@@ -4,7 +4,7 @@ import FerretCountRepository from '../Repository/FerretCountRepository.js';
 // import { ObjectToReturn } from 'Models/Types/ObjectToReturnModel.js';
 
 class FerretCountController {
-    async getAllUsers(req: Request, res: Response): Promise<Response> {
+    async getAllFerretCounts(req: Request, res: Response): Promise<Response> {
         const ferretCountRepository = new FerretCountRepository();
 
         const users = await ferretCountRepository.getAllFerretCounts();
