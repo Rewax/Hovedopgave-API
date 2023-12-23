@@ -2,19 +2,20 @@ import { FerretCountModel } from '../Model/FerretCountModel.js';
 import { ObjectToReturn } from '../Types/ObjectToReturnModel.js';
 
 class FerretCountRepository {
-    Id: number;
-    Email: string;
-    Password: string;
-    Firstname: string;
-    Lastname: string;
-
     objectToReturn = new ObjectToReturn({}, true, "", 200);
 
     async getAllFerretCounts() {
         try {
             const data = await FerretCountModel.findAll({
-                include: [
-                    { model: FerretCountModel, as: 'ferret_count' },
+                attributes: [
+                    'count',
+                    'version_id',
+                    'tenant',
+                    'version_time_finished',
+                    'data_uploaded',
+                    'asset_category',
+                    'asset_type',
+                    'asset_type_id'
                 ]
             });
 
