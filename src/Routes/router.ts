@@ -1,5 +1,7 @@
-import FerretCountController from '../Controller/FerretCountController.js';
 import { Router } from 'express';
+import LoadflowController from '../Controller/LoadflowController.js';
+import FerretConnectednessController from '../Controller/FerretConnectednessController.js';
+import FerretCountController from '../Controller/FerretCountController.js';
 
 const router = Router();
 
@@ -35,6 +37,65 @@ const router = Router();
  *                   asset_type_id: 85
  */
 router.get('/api/get/all/ferretCounts', FerretCountController.getAllFerretCounts);
+
+
+/**
+ * Get Ferret Connectedness.
+ *
+ * @swagger
+ * /api/get/ferretConnectedness:
+ *   get:
+ *     summary: Get Ferret Connectedness
+ *     responses:
+ *       '200':
+ *         description: Ferret Connectedness retrieved successfully
+ *         content:
+ *           application/json:
+ *             example:
+ *               ferretConnectedness:
+ *                 name: nkforsyning
+ *                 version_id: 274
+ *                 overall_connectedness: 83.6
+ *                 time_finished: "2023-08-18 13:05:02.955427"
+ *                 time_started: "2023-08-18 13:03:08.219411"
+ *                 values_by_station:
+ *                   - station_name: HOL
+ *                     connectedness: 89
+ *                   - station_name: MML
+ *                     connectedness: 83
+ *                   - station_name: NSV
+ *                     connectedness: 83
+ *                   - station_name: YDN
+ *                     connectedness: 79.4
+ */
+router.get('/api/get/all/ferretConnectedness', FerretConnectednessController.getAllFerretConnectedness);
+
+/**
+ * Get loadflow from nk-forsyning.
+ *
+ * @swagger
+ * /api/get/loadflow-nkforsyning:
+ *   get:
+ *     summary: Get loadflow from nk-forsyning
+ *     responses:
+ *       '200':
+ *         description: loadflow retrieved successfully
+ *         content:
+ *           application/json:
+ *             example:
+ *               loadflow-nkforsyning:
+ *                 primary_substation: HOL
+ *                 period: "2020-08"
+ *                 n_timestamps: "577"
+ *                 n_successful: "0"
+ *                 n_failed: "577"
+ *                 success_percentage: "0.0"
+ *                 simulation_id: "320"
+ *                 version_id: "384"
+ *                 name: "loadflownkforsyning"
+ */
+router.get('/api/get/loadflow-nkforsyning', LoadflowController.getAllLoadFlows);
+
 
 
 

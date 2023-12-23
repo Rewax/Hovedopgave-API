@@ -1,4 +1,4 @@
-import { LoadflowModel } from '../Model/LoadflowModel';
+import { LoadflowModel } from '../Model/LoadflowModel.js';
 import { ObjectToReturn } from '../Types/ObjectToReturnModel.js';
 
 class LoadflowRepository {
@@ -17,8 +17,16 @@ class LoadflowRepository {
     async getAllLoadFlows() {
         try {
             const data = await LoadflowModel.findAll({
-                include: [
-                    { model: LoadflowModel, as: 'loadflow' },
+                attributes: [
+                    'Id',
+                    'primary_substation',
+                    'period',
+                    'n_timestamps',
+                    'n_failed',
+                    'success_percentage',
+                    'simulation_id',
+                    'version_id',
+                    'name'
                 ]
             });
 
