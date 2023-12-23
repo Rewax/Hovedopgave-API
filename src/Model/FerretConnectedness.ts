@@ -1,51 +1,43 @@
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
 import { Model, DataTypes } from 'sequelize';
 import sequelizeConnection from '../Config/DbConfig.js';
 
 class FerretConnectedness extends Model { }
 
-const __filename = fileURLToPath(import.meta.url);
-
-const __dirname = path.dirname(__filename);
-
 FerretConnectedness.init(
     {
-        Id: {
-            type: DataTypes.INTEGER,
-            autoIncrement: true,
-            primaryKey: true,
-        },
         name: {
             type: DataTypes.STRING,
+            allowNull: false,
         },
         version_id: {
             type: DataTypes.INTEGER,
+            allowNull: false,
         },
         overall_connectedness: {
             type: DataTypes.FLOAT,
+            allowNull: false,
         },
         time_finished: {
             type: DataTypes.STRING,
+            allowNull: false,
         },
         time_started: {
             type: DataTypes.STRING,
+            allowNull: false,
         },
-        // Add additional columns for values_by_station
-        station_name: {
-            type: DataTypes.STRING,
-        },
-        connectedness: {
-            type: DataTypes.FLOAT,
+        values_by_station: {
+            type: DataTypes.JSONB, // JSONB for storing an array of JSON objects
+            allowNull: false,
         },
     },
     {
         sequelize: sequelizeConnection,
-        tableName: 'FerretConnectedness',
+        modelName: 'FerretConnectedness',
+        tableName: 'ferret_connectedness',
         freezeTableName: true,
     }
 );
+
 
 
 // const filePath = path.resolve(__dirname, '../ferret_connectedness_data.json');
