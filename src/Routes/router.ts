@@ -2,6 +2,7 @@ import { Router } from 'express';
 import LoadflowController from '../Controller/LoadflowController.js';
 import FerretConnectednessController from '../Controller/FerretConnectednessController.js';
 import FerretCountController from '../Controller/FerretCountController.js';
+import StationController from '../Controller/StationController.js';
 
 const router = Router();
 
@@ -96,7 +97,36 @@ router.get('/api/get/all/ferretConnectedness', FerretConnectednessController.get
  */
 router.get('/api/get/loadflow-nkforsyning', LoadflowController.getAllLoadFlows);
 
-
-
+/**
+ * Retrieve information about all stations.
+ *
+ * @swagger
+ * /api/get/all/stations:
+ *   get:
+ *     summary: Get all stations
+ *     responses:
+ *       '200':
+ *         description: Successful response
+ *         content:
+ *           application/json:
+ *             example:
+ *               - id: MML
+ *                 position:
+ *                   lat: 55.22503702871599
+ *                   lng: 11.750777235661934
+ *               - id: HOL
+ *                 position:
+ *                   lat: 55.24673402394817
+ *                   lng: 11.77157725310437
+ *               - id: YDN
+ *                 position:
+ *                   lat: 55.20835346894054
+ *                   lng: 11.740549069590848
+ *               - id: NSV
+ *                 position:
+ *                   lat: 55.24740224552815
+ *                   lng: 11.713430586100033
+ */
+router.get('/api/get/all/stations', StationController.getAllStations);
 
 export default router;
