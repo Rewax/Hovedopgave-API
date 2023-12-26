@@ -1,0 +1,5001 @@
+[{
+  "time": "2022-07-29 20:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.244",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-21 17:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.09",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-15 15:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.177",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-31 17:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.058",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-03 08:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-04 02:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.081",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-07 17:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-16 11:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.075",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-17 06:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.026",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-24 03:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.036",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-21 07:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.036",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-19 17:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.288",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-16 21:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.285",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-17 03:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.049",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-15 06:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.095",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-04 01:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.023",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-05 20:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.092",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-24 09:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.242",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-17 21:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.178",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-20 03:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.059",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-10 14:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.02",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-27 02:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.04",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-13 01:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.037",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-21 04:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.103",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-02 14:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.142",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-27 00:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.068",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-20 15:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.065",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-10 09:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.022",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-30 19:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.316",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-24 22:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.307",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-15 17:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.102",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-20 00:00:00.000000 UTC",
+  "installation_number_hash": "000b16a4d2fecc44ed5ba9f068297238",
+  "value": "0.099",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-24 13:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.125",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-27 06:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.165",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-25 23:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.156",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-21 00:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.156",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-27 08:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.214",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-21 17:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.57",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-20 09:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "1.52",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-07 17:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.252",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-07 13:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.855",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-27 23:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.16",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-29 09:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.154",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-07 10:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.103",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-23 04:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.142",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-22 10:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.263",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-17 00:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.127",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-04 22:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.254",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-11 11:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.37",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-06 18:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.091",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-15 19:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.237",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-13 11:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.21",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-14 12:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.073",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-31 21:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.137",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-22 14:00:00.000000 UTC",
+  "installation_number_hash": "000b6114722b74472b45539826bf3854",
+  "value": "0.271",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-01 08:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.738",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-27 13:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.15",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-16 23:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.297",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-08 03:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.147",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-08 20:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.413",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-04 12:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.138",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-29 04:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.135",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-17 15:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.184",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-24 07:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.121",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-11 02:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.089",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-14 16:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.7",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-15 19:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.682",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-10 12:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.23",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-28 07:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.112",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-05 13:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.224",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-18 05:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.218",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-01 21:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.218",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-09 04:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.215",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-05 02:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.418",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-06 16:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.142",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-31 21:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.281",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-22 18:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.263",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-18 10:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.094",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-30 16:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.185",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-11 17:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.799",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-13 09:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.114",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-04 03:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.155",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-21 12:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.108",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-21 11:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.977",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-12 15:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.149",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-08 17:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.137",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-14 20:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.137",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-26 03:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "0.137",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-19 21:00:00.000000 UTC",
+  "installation_number_hash": "000b73940a22f8964c53b6be2d786c4e",
+  "value": "10.817",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-02 14:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.093",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-03 03:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.122",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-25 10:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.087",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-14 13:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.666",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-20 09:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.904",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-17 20:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.446",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-11 01:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.107",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-24 01:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.075",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-13 04:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.101",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-24 21:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.129",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-26 16:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.187",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-15 06:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.124",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-07 03:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.092",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-10 17:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.962",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-24 05:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.118",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-12 13:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.086",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-03 06:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "1.196",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-05 09:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.103",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-14 06:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "1.249",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-29 03:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.1",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-03 15:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.097",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-02 15:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.502",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-27 06:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "1.504",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-31 00:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.24",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-06 11:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.082",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-17 03:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.111",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-07 20:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.213",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-04 17:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "2.192",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-31 14:00:00.000000 UTC",
+  "installation_number_hash": "000e2bc8316197c9f3b365443b44f7b8",
+  "value": "0.067",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-05 11:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.375",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-26 03:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.122",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-02 15:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.339",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-04 21:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-05 21:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.168",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-23 05:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.039",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-18 15:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.214",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-22 02:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.072",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-30 19:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.069",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-08 04:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.069",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-16 17:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.891",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-13 18:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.38",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-30 05:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.092",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-01 06:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.121",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-11 08:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.089",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-06 11:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.115",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-29 10:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "1.715",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-16 14:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.163",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-12 22:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.299",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-11 17:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.074",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-22 08:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.148",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-30 18:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.142",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-18 10:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.025",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-04 04:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.1",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-28 10:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.127",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-29 17:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.094",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-27 01:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.185",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-14 18:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.483",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-30 01:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.06",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-14 04:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.12",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-08 17:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.022",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-02 17:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.022",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-24 22:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.088",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-12 16:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.173",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-19 07:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.108",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-30 07:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.216",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-24 07:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.073",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-01 23:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.146",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-29 02:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.067",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-03 06:00:00.000000 UTC",
+  "installation_number_hash": "00171eac1338cd5d2125ccd9cac519c6",
+  "value": "0.064",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-16 17:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.619",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-29 23:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.827",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-02 12:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.952",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-21 18:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "1.904",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-08 18:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.916",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-14 00:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.3",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-04 07:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.57",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-28 16:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.564",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-13 00:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.392",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-03 06:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.392",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-07 09:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.496",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-13 21:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "1.109",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-30 12:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.487",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-26 04:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.484",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-27 17:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.481",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-05 00:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.353",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-18 12:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.475",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-11 04:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.344",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-10 05:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.469",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-22 03:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.341",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-12 20:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "1.078",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-20 19:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.657",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-07 16:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.48",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-21 12:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.579",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-11 13:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.579",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-21 09:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.465",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-03 14:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "1.348",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-13 19:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.444",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-21 11:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "1.716",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-05 04:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.417",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-29 12:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.697",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-20 17:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.667",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-23 03:00:00.000000 UTC",
+  "installation_number_hash": "0022d09b34824297d8598b4bef09e385",
+  "value": "0.381",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-15 22:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.186",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-27 09:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.09",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-09 10:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.238",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-18 21:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.058",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-21 09:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.058",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-21 14:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.084",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-26 02:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.075",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-19 05:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.101",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-13 21:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.069",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-05 13:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.187",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-21 07:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.124",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-05 05:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.046",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-14 13:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.092",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-06 15:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.242",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-13 06:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.166",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-11 23:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.04",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-25 09:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.077",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-09 00:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.154",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-10 03:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.037",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-08 01:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.05",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-25 10:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.1",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-08 08:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.275",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-21 15:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.55",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-05 16:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.133",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-25 23:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.133",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-30 21:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.097",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-16 15:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "1.016",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-01 08:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.094",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-04 17:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.373",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-24 14:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.865",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-19 08:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.091",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-08 23:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.179",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-10 13:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.355",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-01 20:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.234",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-21 05:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.167",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-13 22:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.041",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-03 11:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.111",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-31 06:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.054",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-02 20:00:00.000000 UTC",
+  "installation_number_hash": "0028bccfaa148f8573512d50d3338adb",
+  "value": "0.213",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-17 00:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.168",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-14 11:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.193",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-27 04:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.19",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-19 18:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.19",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-29 12:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.19",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-30 17:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.169",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-11 15:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.169",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-03 01:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.169",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-14 18:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.191",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-15 06:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.191",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-19 14:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.188",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-15 14:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.188",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-06 15:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.17",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-08 06:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.17",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-22 01:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.192",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-19 21:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.192",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-13 02:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.192",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-18 19:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.192",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-01 15:00:00.000000 UTC",
+  "installation_number_hash": "002c891b10750851418833679b03e7f9",
+  "value": "0.192",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-24 03:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-30 01:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-12 17:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.061",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-06 13:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.045",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-19 19:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-03 08:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-22 05:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.039",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-24 16:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.013",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-03 04:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.052",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-03 04:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.052",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-03 22:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.009",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-17 18:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.018",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-02 08:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.033",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-20 21:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.046",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-08 07:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.01",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-22 14:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.04",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-04 18:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.017",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-22 08:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.017",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-12 06:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.06",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-24 11:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.352",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-09 10:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-12 03:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-15 00:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-15 11:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-08 09:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-29 17:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.038",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-05 18:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.038",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-09 10:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.152",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-10 21:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.207",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-23 01:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.035",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-27 04:00:00.000000 UTC",
+  "installation_number_hash": "002fa156b2d1d3784d2ed6c63b8e7d6a",
+  "value": "0.012",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-18 01:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "1.077",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-10 01:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.833",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-19 06:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.833",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-24 18:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.815",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-19 23:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.809",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-29 02:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "1.118",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-06 20:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.773",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-17 11:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-05 00:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "1.087",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-13 00:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "1.015",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-03 11:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.049",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-12 08:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.049",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-20 17:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.132",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-17 18:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "7.619",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-28 20:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.478",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-25 20:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.056",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-25 23:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.86",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-28 20:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "6.438",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-14 05:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.824",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-21 06:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "1.749",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-08 08:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.05",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-19 04:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.05",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-23 17:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.52",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-17 10:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "1.528",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-09 12:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.047",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-04 12:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.996",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-02 01:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.823",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-17 21:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "1.009",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-05 20:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "6.296",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-10 14:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.054",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-18 05:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.852",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-27 18:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "4.451",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-16 08:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.051",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-30 14:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "3.447",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-02 13:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.048",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-23 23:00:00.000000 UTC",
+  "installation_number_hash": "0031afff85772d7d9a4ba60558759587",
+  "value": "0.881",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-02 14:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.177",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-12 17:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.174",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-12 21:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.336",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-06 09:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.336",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-08 23:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.159",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-22 18:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.312",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-29 01:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.306",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-30 17:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.291",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-12 13:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.35",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-18 19:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.344",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-01 12:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.344",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-02 06:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.341",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-05 07:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.326",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-22 02:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.32",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-27 06:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.32",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-04 19:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.206",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-31 18:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.173",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-08 15:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.331",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-26 09:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.456",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-10 04:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.164",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-08 02:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.325",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-28 23:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.152",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-29 15:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.426",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-07 23:00:00.000000 UTC",
+  "installation_number_hash": "00336d3fa203e488446cfdf22d596315",
+  "value": "0.405",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-26 15:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.625",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-31 13:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.081",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-15 11:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.081",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-15 12:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.081",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-30 11:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.321",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-14 08:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.22",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-08 15:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.309",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-31 00:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.153",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-22 01:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.069",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-29 03:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.066",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-07 20:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.236",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-05 07:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.115",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-18 00:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.151",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-29 11:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.074",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-20 21:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.206",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-05 22:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.136",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-27 04:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.197",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-22 07:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.097",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-20 00:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.097",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-15 13:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.182",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-21 18:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.62",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-27 14:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.102",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-10 02:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.07",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-03 19:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.277",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-17 21:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.274",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-16 03:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.067",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-07 11:00:00.000000 UTC",
+  "installation_number_hash": "00356992428da4ad252c9ebd625bbb44",
+  "value": "0.096",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-09 01:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-04 01:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-02 07:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-28 23:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.061",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-05 07:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-08 19:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.078",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-07 18:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.104",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-29 10:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.101",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-10 04:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.135",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-20 18:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.132",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-07 19:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.129",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-26 02:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.031",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-19 06:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.014",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-15 08:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.02",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-07 04:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.02",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-27 18:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.209",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-15 20:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.145",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-26 22:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.071",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-15 03:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.025",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-04 21:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.025",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-19 06:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.185",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-09 12:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.03",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-29 15:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.041",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-19 06:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.027",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-30 18:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.073",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-25 04:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.146",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-01 10:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.07",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-13 18:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.001",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-20 19:00:00.000000 UTC",
+  "installation_number_hash": "00375267cf0cac4e6b8c5c587e6a925b",
+  "value": "0.128",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-29 14:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.186",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-09 12:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.247",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-15 15:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.183",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-27 03:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.061",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-05 20:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.232",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-24 05:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.339",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-17 11:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-01 23:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.144",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-29 12:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.205",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-23 15:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.205",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-23 16:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.069",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-21 23:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.031",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-02 19:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.157",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-23 21:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.142",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-30 00:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.065",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-11 16:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.182",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-20 06:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.06",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-14 09:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.044",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-25 20:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.173",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-16 12:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-07 08:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.271",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-21 03:00:00.000000 UTC",
+  "installation_number_hash": "0038d4bd989f9601ef694b4090a03454",
+  "value": "0.032",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-29 21:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.541",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-02 12:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.529",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-25 07:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.312",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-20 10:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.496",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-26 04:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.245",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-11 15:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.556",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-05 17:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.901",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-06 14:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.502",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-21 13:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.24",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-05 19:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.561",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-05 03:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.313",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-21 19:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.87",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-23 04:00:00.000000 UTC",
+  "installation_number_hash": "00395c43dc0358c5dc8a30cc8198a354",
+  "value": "0.426",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-01 00:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.122",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-05 21:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.321",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-04 20:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.297",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-22 19:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.285",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-12 22:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.196",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-19 20:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.196",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-06 21:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.129",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-25 02:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.121",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-02 13:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.115",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-19 05:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.115",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-23 22:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.224",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-24 19:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.148",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-12 11:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.421",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-24 19:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.272",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-28 08:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.266",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-27 08:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.094",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-29 23:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.117",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-06 00:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.164",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-25 21:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.62",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-25 22:00:00.000000 UTC",
+  "installation_number_hash": "003ad61a09123d6b97a3976fda883f13",
+  "value": "0.099",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-21 18:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.369",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-22 01:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.479",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-26 06:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.449",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-13 17:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.44",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-16 19:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.389",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-08 13:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.377",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-04 16:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.371",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-11 08:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.493",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-02 15:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.481",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-28 08:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.481",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-29 17:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.463",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-17 17:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.457",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-24 21:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.454",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-24 03:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.533",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-18 06:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.448",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-30 07:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.515",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-30 11:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.436",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-20 23:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.409",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-14 01:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.406",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-20 17:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.4",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-08 12:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.532",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-04 09:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.388",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-19 16:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.382",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-31 04:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.514",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-04 09:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.489",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-24 03:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.48",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-13 23:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.474",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-03 12:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.438",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-28 06:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.423",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-02 03:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.417",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-28 06:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.408",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-31 15:00:00.000000 UTC",
+  "installation_number_hash": "003dc51c81a1f6c548c28fbf8798fc48",
+  "value": "0.408",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-12 05:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-02 23:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-21 18:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-03 10:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-16 05:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-19 16:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.09",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-07 21:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.755",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-16 18:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.039",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-20 09:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.078",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-14 02:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.013",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-19 21:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.026",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-30 09:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.033",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-25 12:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.046",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-18 03:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.059",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-14 16:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.299",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-02 05:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.017",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-13 20:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.088",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-25 15:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.114",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-12 01:00:00.000000 UTC",
+  "installation_number_hash": "0041a290f96dcea64ac63d27067befab",
+  "value": "0.019",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-15 04:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.607",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-22 23:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.601",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-28 23:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.601",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-21 09:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.589",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-09 17:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.612",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-13 01:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.606",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-26 17:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.6",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-15 14:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.6",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-30 23:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.594",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-05 14:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.582",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-28 19:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.617",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-11 09:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.611",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-15 02:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.605",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-10 10:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.622",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-03 00:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.616",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-07 07:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.61",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-14 02:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.61",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-28 01:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.604",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-19 19:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.604",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-11 13:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.598",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-17 18:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.598",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-07 12:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.592",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-24 13:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.58",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-05 16:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.615",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-30 21:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.615",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-25 19:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.615",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-30 05:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.609",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-10 19:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.603",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-20 08:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.603",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-05 06:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.591",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-19 08:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.585",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-23 03:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.608",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-21 20:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.602",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-07 18:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.596",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-18 15:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.596",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-22 07:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.596",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-15 05:00:00.000000 UTC",
+  "installation_number_hash": "0044b5890d11de0317a9081f2f2befc8",
+  "value": "0.59",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-19 17:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-15 20:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.122",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-03 12:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.168",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-07 06:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.036",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-20 07:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.036",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-06 21:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.135",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-24 00:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.049",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-14 22:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.062",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-27 20:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.092",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-29 02:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.083",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-25 04:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.056",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-18 22:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.005",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-07 03:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.04",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-13 23:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.071",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-30 00:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.05",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-13 04:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.05",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-03 10:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.136",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-16 21:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.065",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-26 16:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.03",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-16 02:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.085",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-14 16:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.114",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-05 17:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.912",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-27 05:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.222",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-04 23:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.079",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-19 17:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.149",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-15 07:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.035",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-17 21:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.099",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-18 22:00:00.000000 UTC",
+  "installation_number_hash": "00462fd1658bcbba30b92d8cddeb9aea",
+  "value": "0.064",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-05 12:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-31 14:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-16 15:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-26 08:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-07 21:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-17 17:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-31 19:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-28 21:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-20 07:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-25 02:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-06 10:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-18 01:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-26 01:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-12 09:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-29 05:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-07 07:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-02 21:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-27 16:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-30 15:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-05 03:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-17 16:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-25 12:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-30 01:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-27 04:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-22 04:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-07 09:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-26 02:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-18 08:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-13 18:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-07 04:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-06 19:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-18 14:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-24 06:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.36",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-24 13:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.467",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-20 05:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.731",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-13 13:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.036",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-04 09:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.033",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-17 17:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.187",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-08 03:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.031",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-19 03:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.043",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-21 16:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "1.083",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-17 03:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.047",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-05 04:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.602",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-06 21:00:00.000000 UTC",
+  "installation_number_hash": "004670205ac89d3873fc7c2b8ecc66cf",
+  "value": "0.786",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-03 07:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.72",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-02 05:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.72",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-04 08:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.72",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-25 17:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "2.76",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-07 13:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "9.6",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-22 05:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.6",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-08 23:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.6",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-10 01:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.6",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-16 12:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.6",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-15 17:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "7.32",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-16 22:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "1.08",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-29 02:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "1.08",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-20 20:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "8.28",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-04 11:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.96",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-19 10:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.96",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-18 23:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.84",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-24 05:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.84",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-03 06:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.84",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-28 04:00:00.000000 UTC",
+  "installation_number_hash": "00476aa6db66affbb2dd04a0e69485ec",
+  "value": "0.84",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-08 18:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.851",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-20 02:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.045",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-26 09:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.087",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-17 23:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.058",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-22 16:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.116",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-21 10:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "1.433",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-11 20:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-19 08:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.211",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-17 13:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.208",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-23 14:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.683",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-13 09:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "2.213",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-19 05:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.129",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-10 20:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.063",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-02 06:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.124",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-03 04:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.611",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-26 08:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.475",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-05 20:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.086",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-17 11:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.224",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-18 11:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.04",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-22 20:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.08",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-22 21:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.628",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-23 14:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.053",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-04 21:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.206",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-10 01:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.068",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-16 16:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.047",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-11 07:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "2.244",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-13 08:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "1.735",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-22 20:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-05 08:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.501",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-29 01:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.054",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-26 20:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.054",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-07 06:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.073",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-05 10:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.146",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-01 02:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.387",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-04 02:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.387",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-26 02:00:00.000000 UTC",
+  "installation_number_hash": "004880d54c1c9d0a0418b1a9a1c43b20",
+  "value": "0.048",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-06 08:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.119",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-13 05:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.029",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-22 06:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.226",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-21 21:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.15",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-20 09:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.052",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-03 05:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.101",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-18 20:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "1.342",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-29 04:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.049",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-05 14:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.132",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-04 14:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.264",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-29 01:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.089",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-20 23:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.118",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-29 06:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.04",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-29 18:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.293",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-13 03:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.103",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-08 01:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.017",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-10 05:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.017",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-18 04:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.041",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-12 07:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.082",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-02 22:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.216",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-28 06:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.038",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-31 21:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "1.192",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-05 08:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.073",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-21 19:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.146",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-04 03:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.035",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-21 20:00:00.000000 UTC",
+  "installation_number_hash": "004b903543fadfe1b9ed424b595fa585",
+  "value": "0.131",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-29 11:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-22 00:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-19 03:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-07 03:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-01 22:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-29 08:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-24 13:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-03 01:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-22 01:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-19 17:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-10 09:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-25 01:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-16 18:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-01 07:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-03 14:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-17 13:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-10 14:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-13 19:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-21 12:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-07 03:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-14 04:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-29 21:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-11 20:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-10 14:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-22 10:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-19 20:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-06 14:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-25 07:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-13 06:00:00.000000 UTC",
+  "installation_number_hash": "004da8bafda6a6c0792ce1cd02b04f6a",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-24 17:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.25",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-18 21:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.119",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-27 06:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-24 18:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.113",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-07 14:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-28 14:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.211",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-04 14:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.052",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-19 12:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.018",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-05 00:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.018",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-25 05:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.069",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-23 19:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.138",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-05 05:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.066",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-02 09:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.132",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-29 09:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.132",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-18 14:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.063",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-02 00:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.023",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-04 20:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.089",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-04 13:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.115",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-08 18:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.014",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-21 05:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.056",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-05 00:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.02",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-21 22:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.08",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-23 16:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.308",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-02 11:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.053",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-13 00:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.025",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-26 18:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.191",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-27 17:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.257",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-01 19:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.176",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-11 09:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.176",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-22 11:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.114",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-29 19:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.164",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-25 02:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.027",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-13 01:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.019",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-16 00:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.019",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-21 00:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.038",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-20 12:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.035",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-11 02:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.07",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-23 13:00:00.000000 UTC",
+  "installation_number_hash": "004fee77cf28c08ddae8d302e2b25db5",
+  "value": "0.137",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-19 22:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.122",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-08 22:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.119",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-15 17:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.464",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-17 06:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "1.82",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-20 13:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.223",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-08 14:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.075",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-11 11:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.129",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-19 17:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.126",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-06 15:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.121",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-13 22:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.581",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-17 09:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.341",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-05 09:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.142",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-11 23:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.05",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-26 02:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.136",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-13 05:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.127",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-15 05:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.085",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-26 19:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.775",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-28 01:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.108",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-21 16:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.076",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-09 19:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "1.733",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-10 23:00:00.000000 UTC",
+  "installation_number_hash": "005905ea32b73dd549aa34426bb8a6fa",
+  "value": "0.064",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-14 23:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.045",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-09 16:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.36",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-24 06:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.029",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-20 10:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.116",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-16 00:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.042",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-06 00:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-09 11:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.22",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-22 19:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.279",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-27 20:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.193",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-14 07:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.031",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-21 13:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.124",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-25 04:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.092",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-14 23:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.242",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-12 07:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.172",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-16 20:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.341",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-05 21:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.664",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-11 06:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.112",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-02 16:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.01",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-15 13:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.157",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-30 13:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.314",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-25 02:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.037",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-15 13:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.209",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-10 16:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.203",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-14 01:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.281",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-29 14:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "1.588",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-20 15:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.382",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-23 02:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.094",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-20 00:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.182",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-25 11:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.364",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-19 04:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.044",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-23 14:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.337",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-20 08:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.164",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-23 13:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.079",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-11 23:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.733",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-28 18:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.292",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-23 13:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "1.793",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-28 08:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.137",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-25 21:00:00.000000 UTC",
+  "installation_number_hash": "005aa0308c0046d257f315da267b2700",
+  "value": "0.893",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-22 08:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.061",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-28 23:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.122",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-08 00:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.045",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-12 09:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.116",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-14 19:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.042",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-28 15:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.084",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-17 16:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-29 22:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.036",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-11 18:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.138",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-16 20:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.129",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-30 16:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.362",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-06 18:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.169",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-02 19:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.028",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-25 14:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.077",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-09 18:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.212",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-29 17:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.145",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-08 16:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.142",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-09 03:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.068",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-24 12:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.047",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-12 02:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.047",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-02 18:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.011",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-06 23:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.114",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-22 22:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.041",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-04 05:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.038",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-19 20:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.286",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-06 05:00:00.000000 UTC",
+  "installation_number_hash": "0063653e856c7419b81c3650215dfc96",
+  "value": "0.032",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-07 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.061",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-29 11:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.061",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-02 04:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.045",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-07 20:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.177",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-07 15:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.087",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-08 05:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.029",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-08 00:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.058",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-24 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2021-02-27 03:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-05 06:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-26 15:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.055",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-22 05:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.039",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-24 17:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.147",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-02 21:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.138",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-04 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.138",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-28 20:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.033",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-19 22:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.066",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-24 16:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.031",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-11 07:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.062",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-17 14:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.062",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-01 07:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.089",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-26 02:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.059",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-20 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.043",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-09 07:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.043",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-25 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.688",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-11 01:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.04",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-28 00:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.053",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-28 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.074",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-08 20:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.203",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-28 13:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.034",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-12 20:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.136",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-13 02:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.065",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-03 14:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.065",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-13 14:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.011",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-16 10:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.173",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-29 18:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.462",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-01 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-11 18:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.057",
+  "unit": "kwh"
+}, {
+  "time": "2023-09-29 08:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.041",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-15 09:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.041",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-25 21:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.225",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-13 10:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.161",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-02 18:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.038",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-14 22:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.073",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-05 02:00:00.000000 UTC",
+  "installation_number_hash": "006369a77cedc0b667af88f65d425e54",
+  "value": "0.048",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-30 01:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.0",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-13 13:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.061",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-18 22:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.122",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-31 13:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.045",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-28 08:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.087",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-29 02:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.058",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-21 21:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.116",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-04 23:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.116",
+  "unit": "kwh"
+}, {
+  "time": "2022-04-01 23:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.081",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-10 21:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.162",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-21 18:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.223",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-19 08:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.11",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-04 00:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.153",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-12 15:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.026",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-31 20:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.104",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-19 02:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.104",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-15 17:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.208",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-01 00:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.098",
+  "unit": "kwh"
+}, {
+  "time": "2022-03-07 00:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.095",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-11 08:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.252",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-24 21:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.242",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-23 04:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.059",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-17 10:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.083",
+  "unit": "kwh"
+}, {
+  "time": "2022-08-25 10:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.077",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-04 21:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.866",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-21 02:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.151",
+  "unit": "kwh"
+}, {
+  "time": "2021-09-27 05:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.053",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-26 16:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.209",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-01 13:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.284",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-19 04:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.136",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-07 07:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.319",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-28 23:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.204",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-30 06:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.14",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-24 16:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.096",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-17 06:00:00.000000 UTC",
+  "installation_number_hash": "0065866f0a341bf33d71736aeca54b67",
+  "value": "0.001",
+  "unit": "kwh"
+}, {
+  "time": "2023-12-10 13:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.372",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-24 00:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.372",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-06 23:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.235",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-21 13:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.565",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-15 17:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.333",
+  "unit": "kwh"
+}, {
+  "time": "2021-04-11 04:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.276",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-03 14:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.338",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-06 13:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.227",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-31 20:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.224",
+  "unit": "kwh"
+}, {
+  "time": "2022-09-28 04:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.194",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-02 12:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.651",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-09 15:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.176",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-08 04:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.176",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-03 13:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.456",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-28 04:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.31",
+  "unit": "kwh"
+}, {
+  "time": "2023-07-02 16:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.432",
+  "unit": "kwh"
+}, {
+  "time": "2020-09-20 03:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.301",
+  "unit": "kwh"
+}, {
+  "time": "2021-03-21 20:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.423",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-14 05:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.146",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-28 06:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.14",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-09 19:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.28",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-09 08:00:00.000000 UTC",
+  "installation_number_hash": "00670cd794fc9810445418ab022158b8",
+  "value": "0.134",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-21 02:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.125",
+  "unit": "kwh"
+}, {
+  "time": "2021-11-14 06:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.09",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-23 16:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.815",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-07 23:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-25 23:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-15 09:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.021",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-04 20:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.333",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-01 17:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.505",
+  "unit": "kwh"
+}, {
+  "time": "2023-01-31 10:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.107",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-12 08:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.208",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-05 10:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.144",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-04 14:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.398",
+  "unit": "kwh"
+}, {
+  "time": "2023-08-17 21:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.066",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-09 00:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.031",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-19 19:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.248",
+  "unit": "kwh"
+}, {
+  "time": "2020-12-04 17:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.359",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-07 19:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.233",
+  "unit": "kwh"
+}, {
+  "time": "2021-07-16 06:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.233",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-21 22:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.23",
+  "unit": "kwh"
+}, {
+  "time": "2023-11-01 01:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.028",
+  "unit": "kwh"
+}, {
+  "time": "2023-04-10 08:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.02",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-14 15:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.02",
+  "unit": "kwh"
+}, {
+  "time": "2020-11-14 15:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.215",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-09 18:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.209",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-18 22:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.071",
+  "unit": "kwh"
+}, {
+  "time": "2022-07-16 15:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.13",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-04 06:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.185",
+  "unit": "kwh"
+}, {
+  "time": "2022-02-11 13:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.24",
+  "unit": "kwh"
+}, {
+  "time": "2022-12-31 07:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.022",
+  "unit": "kwh"
+}, {
+  "time": "2022-06-24 15:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.088",
+  "unit": "kwh"
+}, {
+  "time": "2022-01-18 18:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.219",
+  "unit": "kwh"
+}, {
+  "time": "2023-03-08 05:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.019",
+  "unit": "kwh"
+}, {
+  "time": "2022-11-27 22:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.035",
+  "unit": "kwh"
+}, {
+  "time": "2020-06-27 16:00:00.000000 UTC",
+  "installation_number_hash": "0069c138742e3e2980ed316d8e9229d5",
+  "value": "0.265",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-27 16:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.491",
+  "unit": "kwh"
+}, {
+  "time": "2020-10-23 14:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.119",
+  "unit": "kwh"
+}, {
+  "time": "2020-05-24 12:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.159",
+  "unit": "kwh"
+}, {
+  "time": "2021-05-04 14:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.107",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-15 22:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.15",
+  "unit": "kwh"
+}, {
+  "time": "2021-06-18 22:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.101",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-16 13:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.138",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-03 09:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.049",
+  "unit": "kwh"
+}, {
+  "time": "2020-08-18 10:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.059",
+  "unit": "kwh"
+}, {
+  "time": "2023-06-07 11:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.059",
+  "unit": "kwh"
+}, {
+  "time": "2021-01-31 02:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.056",
+  "unit": "kwh"
+}, {
+  "time": "2023-05-26 04:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.056",
+  "unit": "kwh"
+}, {
+  "time": "2023-10-20 04:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.112",
+  "unit": "kwh"
+}, {
+  "time": "2021-10-20 07:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.08",
+  "unit": "kwh"
+}, {
+  "time": "2022-05-29 09:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.097",
+  "unit": "kwh"
+}, {
+  "time": "2020-07-01 16:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.03",
+  "unit": "kwh"
+}, {
+  "time": "2021-08-13 03:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.022",
+  "unit": "kwh"
+}, {
+  "time": "2023-02-01 04:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.054",
+  "unit": "kwh"
+}, {
+  "time": "2021-12-09 07:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.073",
+  "unit": "kwh"
+}, {
+  "time": "2022-10-23 02:00:00.000000 UTC",
+  "installation_number_hash": "006a923ce2f474b001caac4885c82ba6",
+  "value": "0.073",
+  "unit": "kwh"
+}]

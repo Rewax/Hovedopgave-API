@@ -5,6 +5,7 @@ import { FerretCountModel } from '../Model/FerretCountModel.js';
 import { LoadflowModel } from '../Model/LoadflowModel.js';
 import { FerretConnectedness } from '../Model/FerretConnectednessModel.js';
 import { StationsModel } from '../Model/StationsModel.js';
+import { ForbrugsModel } from '../Model/ForbrugsModel.js';
 
 const __filename = fileURLToPath(import.meta.url);
 
@@ -19,6 +20,8 @@ async function synchronizeDatabase() {
         await LoadflowModel.sync({ alter: true });
         await FerretConnectedness.sync({ alter: true });
         await StationsModel.sync({ alter: true });
+        await ForbrugsModel.sync({ alter: true });
+
 
         // Create bulk data
         if (parseInt(process.env.SQL_CREATE_TEST_DATA) === 1) {
@@ -92,6 +95,25 @@ async function synchronizeDatabase() {
                     console.error('Error inserting data into the database:', error);
                 }
             });
+
+            const forbrug = path.resolve(__dirname, '../forbrugsdata-nk.json');
+
+            fs.readFile(forbrug, 'utf8', async (err, data) => {
+                if (err) {
+                    console.error('Error reading the JSON file:', err);
+                    return;
+                }
+
+                const jsonData = JSON.parse(data);
+
+                try {
+                    await ForbrugsModel.bulkCreate(jsonData);
+                    console.log('Data inserted successfully!');
+                } catch (error) {
+                    console.error('Error inserting data into the database:', error);
+                }
+            });
+
         }
 
         console.log('Database synchronization complete.');

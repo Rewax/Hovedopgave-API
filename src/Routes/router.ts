@@ -3,6 +3,7 @@ import LoadflowController from '../Controller/LoadflowController.js';
 import FerretConnectednessController from '../Controller/FerretConnectednessController.js';
 import FerretCountController from '../Controller/FerretCountController.js';
 import StationController from '../Controller/StationController.js';
+import ForbrugsController from '../Controller/ForbrugsController.js';
 
 const router = Router();
 
@@ -128,5 +129,27 @@ router.get('/api/get/loadflow-nkforsyning', LoadflowController.getAllLoadFlows);
  *                   lng: 11.713430586100033
  */
 router.get('/api/get/all/stations', StationController.getAllStations);
+
+
+/**
+ * @swagger
+ * /api/get/all/forbrug:
+ *   get:
+ *     summary: Get all forbrug from nk-forsyning.
+ *     responses:
+ *       '200':
+ *         description: Successful response
+ *         content:
+ *           application/json:
+ *             example:
+ *               - Id: 1
+ *                 time: "2020-01-01 00:00:00"
+ *                 installation_number_hash: "your_hash_value_here"
+ *                 value: 0.0
+ *                 unit: "kWh"
+ */
+
+router.get('/api/get/all/forbrug', ForbrugsController.getAllForbrug);
+
 
 export default router;
