@@ -1,4 +1,4 @@
-import { FerretCountModel } from '../Model/FerretCountModel.js';
+import { FerretConnectednessModel } from '../Model/FerretConnectednessModel.js';
 import { ObjectToReturn } from '../Types/ObjectToReturnModel.js';
 
 class FerretConnectednessRepository {
@@ -6,16 +6,14 @@ class FerretConnectednessRepository {
 
     async getAllFerretConnectedness() {
         try {
-            const data = await FerretCountModel.findAll({
+            const data = await FerretConnectednessModel.findAll({
                 attributes: [
-                    'count',
+                    'name',
                     'version_id',
-                    'tenant',
-                    'version_time_finished',
-                    'data_uploaded',
-                    'asset_category',
-                    'asset_type',
-                    'asset_type_id'
+                    'overall_connectedness',
+                    'time_finished',
+                    'time_started',
+                    'values_by_station'
                 ]
             });
 

@@ -1,9 +1,9 @@
 import { Model, DataTypes } from 'sequelize';
 import sequelizeConnection from '../Config/DbConfig.js';
 
-class FerretConnectedness extends Model { }
+class FerretConnectednessModel extends Model { }
 
-FerretConnectedness.init(
+FerretConnectednessModel.init(
     {
         name: {
             type: DataTypes.STRING,
@@ -37,4 +37,4 @@ FerretConnectedness.init(
     }
 );
 
-export { FerretConnectedness };
+export { FerretConnectednessModel };
