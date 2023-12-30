@@ -6,7 +6,7 @@ version: '3.8'
 
 services:
   search-service:
-    image: 3rd-party-api-ms:latest
+    image: third-party-api-ms:latest
     # image: ep-mern-searchservice:v3
     container_name: ep-3rdparty-ms 
     # stdin_open: true
