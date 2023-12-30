@@ -152,4 +152,5 @@ router.get('/api/get/all/stations', StationController.getAllStations);
 router.get('/api/get/all/forbrug', ForbrugsController.getAllForbrug);
 
 
+
 export default router;
