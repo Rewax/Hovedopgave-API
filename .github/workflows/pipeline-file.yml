@@ -1,7 +1,7 @@
 name: Server Build & Push
 
 env:
-  IMAGE_NAME: 3rd-party-api-ms
+  IMAGE_NAME: third-party-api-ms
   BRANCH_NAME: ${{ github.ref}}
   BUILD_TAG: ${{ github.sha }}
   GOOGLE_APPLICATION_CREDENTIALS: '${{ secrets.SERVICE_USER_CREDS_2 }}'

@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: 3rdparty-map
+  name: thirdparty-map
 data:
   DEV_SQL_HOST : "localhost"
   DEV_SQL_PORT : "5432"
