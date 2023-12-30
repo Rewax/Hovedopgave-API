@@ -3,7 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { FerretCountModel } from '../Model/FerretCountModel.js';
 import { LoadflowModel } from '../Model/LoadflowModel.js';
-import { FerretConnectedness } from '../Model/FerretConnectednessModel.js';
+import { FerretConnectednessModel } from '../Model/FerretConnectednessModel.js';
 import { StationsModel } from '../Model/StationsModel.js';
 import { ForbrugsModel } from '../Model/ForbrugsModel.js';
 
@@ -18,7 +18,7 @@ async function synchronizeDatabase() {
         // Sync the database
         await FerretCountModel.sync({ alter: true });
         await LoadflowModel.sync({ alter: true });
-        await FerretConnectedness.sync({ alter: true });
+        await FerretConnectednessModel.sync({ alter: true });
         await StationsModel.sync({ alter: true });
         await ForbrugsModel.sync({ alter: true });
 
@@ -71,7 +71,7 @@ async function synchronizeDatabase() {
                 const jsonData = JSON.parse(data);
 
                 try {
-                    await FerretConnectedness.bulkCreate(jsonData);
+                    await FerretConnectednessModel.bulkCreate(jsonData);
                     console.log('Data inserted successfully!');
                 } catch (error) {
                     console.error('Error inserting data into the database:', error);

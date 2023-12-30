@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: third-party-api-ms
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: third-party-api-ms
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+  minReadySeconds: 5 
+  template:
+    metadata:
+      labels:
+        app: third-party-api-ms
+    spec:
+      nodeSelector:
+        "kubernetes.io/os": linux  # Update this line
+      containers:
+      - name: third-party-api-ms
+        # image: us-central1-docker.pkg.dev/hovedopgave-23/dashboard-repo/dashboard-api:3
+        image: us-central1-docker.pkg.dev/hovedopgave-23/dashboard-repo/third-party-api-ms:${BUILD_TAG}
+        # image: us-central1-docker.pkg.dev/hovedopgave-23/dashboard-repo/${BUILD_TAG}
+        envFrom: 
+        - configMapRef:
+            name: thirdparty-map
+        ports:
+        - containerPort: 3004
+        resources:
+          requests:
+            cpu: 250m
+          limits:
+            cpu: 500m
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: third-party-api-ms
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+    targetPort: 3004
+  selector:
+    app: third-party-api-ms
