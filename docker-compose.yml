@@ -1,0 +1,17 @@
+version: '3.8'
+
+# networks: 
+#   ep-mern: 
+#     external: true
+
+services:
+  search-service:
+    image: 3rd-party-api-ms:latest
+    # image: ep-mern-searchservice:v3
+    container_name: ep-3rdparty-ms 
+    # stdin_open: true
+    build:
+      dockerfile: Dockerfile
+      context: ./microservice
+    ports:
+      - "3001:3001"
