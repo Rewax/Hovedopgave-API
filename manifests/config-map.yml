@@ -11,7 +11,7 @@ data:
   SQL_CREATE_TEST_DATA : "1"
   SQL_SYNC_DATA : "1"
 
-  ENVIRONMENT : "dev"
+  ENVIRONMENT : "prod"
 
   PORT : "3004"
 
