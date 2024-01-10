@@ -23,6 +23,7 @@ class LoadflowRepository {
                     'period',
                     'n_timestamps',
                     'n_failed',
+                    'n_successful',
                     'success_percentage',
                     'simulation_id',
                     'version_id',

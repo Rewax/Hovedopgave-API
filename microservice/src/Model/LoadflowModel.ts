@@ -22,6 +22,9 @@ LoadflowModel.init(
         n_failed: {
             type: DataTypes.INTEGER,
         },
+        n_successful: {
+            type: DataTypes.INTEGER,
+        },
         success_percentage: {
             type: DataTypes.FLOAT,
         },
